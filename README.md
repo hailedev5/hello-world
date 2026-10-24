@@ -9,4 +9,8 @@ we started from hello to Be full Stack
 <li>Java</li>
 <li>phyton</li>
 <li>sql</li>
+<li>Lua</li>
+<li>R</li>
+<li>PHP</li>
+<li>C</li>
 </ul>
